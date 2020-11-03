@@ -8,57 +8,57 @@
     </url>
     
     <url>
-        <loc>https://kb.myetherwallet.com/en/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <loc>https://kb.myetherwallet.com/ru/</loc>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://kb.myetherwallet.com/ru/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <loc>https://kb.myetherwallet.com/en/</loc>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/en/categories/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/en/faqs/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/en/videos/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/ru/categories/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/videos/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/ru/faqs/</loc>
-        <lastmod>2020-11-03T21:04:46.091Z</lastmod>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/videos/</loc>
+        <lastmod>2020-11-03T21:11:40.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
